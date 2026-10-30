@@ -4,7 +4,7 @@ layout: about
 credits: true
 ---
 
-# Sobre Este Proyecto
+# Sobre Este Proyecto TESTING
 Esta es una muestra pedagógica para demostrar las capacidades de CollectionBuilder-Remix, creada por [Euge Stumm](https://eugestumm.github.io/) bajo la supervisión de la Dra. [Susanna Allés-Torrent](https://susannalles.com/) y patrocinada por la Beca de Humanidades Digitales de la Universidad de Miami durante el verano de 2026. Esta colección demostrativa presenta una muestra seleccionada de [El Archivo Digital de Español No Binario](https://eugestumm.github.io/gender-inclusive-spanish-digital-archive/), originalmente construido por [Euge Stumm](https://eugestumm.github.io/) y [Ben Papadopoulos](https://www.benpapadopoulos.com/).
 
 ## Sobre le Autore
